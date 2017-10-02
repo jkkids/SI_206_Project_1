@@ -4,6 +4,8 @@ import operator
 import filecmp
 from datetime import date
 
+# github link: https://github.com/jkkids/SI_206_Project_1
+
 def getData(file):
 #Input: file name
 #Ouput: return a list of dictionary objects where 
